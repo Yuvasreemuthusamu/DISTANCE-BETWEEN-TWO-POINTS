@@ -31,7 +31,8 @@ print(round(d,2))
 
 
 ### OUTPUT:
-![OUTPUT](distance.png)
+![out](distance.png)
 
-### RESULT:
+
+# RESULT:
 COMPLETED.
